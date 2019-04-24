@@ -1,1 +1,1 @@
-write-output "this is a Hello World, yo!"
+write-output "Hi World!"
